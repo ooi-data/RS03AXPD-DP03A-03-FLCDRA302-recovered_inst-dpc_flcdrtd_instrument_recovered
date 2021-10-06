@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03AXPD-DP03A-03-FLCDRA302-recovered_inst-dpc_flcdrtd_instrument_recovered
 data_stream: RS03AXPD-DP03A-03-FLCDRA302-recovered_inst-dpc_flcdrtd_instrument_recovered
 end_date: '2021-10-04T12:25:55.732Z'
-last_updated: '2021-10-06T01:08:33.912444Z'
+last_updated: '2021-10-06T01:18:59.040749'
 start_date: '2014-08-10T04:39:15.841Z'
-status: pending
+status: success
